@@ -35,13 +35,22 @@
 6. Practise with vulnerable labs [Tryhackme](https://tryhackme.com)/[Hackthebox](https://www.hackthebox.com/)/[Vulnhub](https://www.vulnhub.com/)/[RootMe CTF](https://www.root-me.org/))
   
 7. eJPT - The eLearnSecurity Junior Penetration Tester (eJPT) is a 100% practical certification on penetration testing and information security essentials. By passing the exam, a cyber security professional proves to employers they are ready for a rewarding new career.
+
+   (i) [eJPT Full Course](https://terabox.com/s/14RTJNkN9AEjY_ih5IymBoQ)
   
 8. OSCP - This online ethical hacking course is self-paced. It introduces penetration testing tools and techniques via hands-on experience. PEN-200 trains not only the skills, but also the mindset required to be a successful penetration tester.
 
-or
+   (i) [OSCP Full Course](https://tibibox.com/s/1-IBr579PmLDID6Tz_kkAqw)
 
-8. Practical Network Penetration Tester Certification (PNPT) -The PNPT exam is a one-of-a-kind ethical hacking certification exam that assesses a student’s ability to perform a network penetration test at a professional level.
+9. Practical Network Penetration Tester Certification (PNPT) -The PNPT exam is a one-of-a-kind ethical hacking certification exam that assesses a student’s ability to perform a network penetration test at a professional level.
+
+   (i) [PNPT Full Course](https://tibibox.com/s/1xSzPPbWlIgeUi3S861hGmQ)
   
-9. Keep updating yourself - Hacking is a long time journey of learning, we must not enter just to hack wifi password or to hack someone’s phone, As time goes by there are new vulnerabilities discovered and patched, thus we must be eager to learn new things
+10. Keep updating yourself - Hacking is a long time journey of learning, we must not enter just to hack wifi password or to hack someone’s phone, As time goes by there are new vulnerabilities discovered and patched, thus we must be eager to learn new things.
 
 ### Course Recomendations
+
+PA - Attacking and Defending Active Directory - Advanced Edition
+
+https://momerybox.com/s/1tSGKU8VxYNmoHpDS83B-PQ
+
